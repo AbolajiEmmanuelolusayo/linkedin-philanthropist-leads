@@ -17,7 +17,7 @@ This is a showcase of my ability to research and compile qualified lead lists fo
 
 ## View the Spreadsheet
 Click here to view the Google Sheet
-https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/pubhtml
+https://docs.google.com/spreadsheets/d/143vjcfTgUV1_jwtg-57_JR6VfiOTx1-4deWaH-bMEfI/edit?usp=sharing
 
 ## Data shown here is for demonstration purposes only.
 THANK YOU!
