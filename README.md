@@ -1,6 +1,6 @@
-# View the Lead Generation Sheet here:** 
+# View the Lead Generation Sheet here:
 
-This sample lead generation file includes data collected from publicly available LinkedIn profiles of philanthropists.
+** This sample lead generation file includes data collected from publicly available LinkedIn profiles of philanthropists.
 
 ## Contents
 - Name
